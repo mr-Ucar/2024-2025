@@ -48,7 +48,7 @@
 15. [QuillBot AI Grammar Checker](https://quillbot.com/grammar-check)
 16. [Grammatically Correct Sentence Checker](https://www.sentencechecker.org/grammatically-correct-sentence-checker)
 
-👋  ## YouTube channels that I can recommend to my students:
+👋  # YouTube channels that I can recommend to my students:
 
 ````📺 Mr Ucar says: I am not affiliated with any YouTube channels. These are just humble suggestions from a teacher to his students or learners in general.````
 
