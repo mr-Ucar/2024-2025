@@ -20,6 +20,13 @@
 - [Quizlet Folders](https://quizlet.com/myonline_repo/folders) 📁
 - [Vocabulary List](https://www.vocabulary.com/lists/1418074) 📖
 - [Vocabulary Profile](https://www.vocabulary.com/profiles/A0FYQKL0CCYKLC) 👤
+- ![image](https://github.com/user-attachments/assets/831cef6d-d843-4973-9f8e-fb62dfda79e7)
+- ![image](https://github.com/user-attachments/assets/a8547e6d-be73-4b88-ad62-f6d7c1467752)
+- ![image](https://github.com/user-attachments/assets/362eb588-b551-4640-86e1-0b8cadb26da4)
+- ![image](https://github.com/user-attachments/assets/a52a3be0-541f-4232-adb6-5de03b135a8e)
+  
+
+[Main Course Resources](https://elt.oup.com/student/englishfile/elementary3/vocabulary/?cc=tr&selLanguage=en)
 
 # Online Dictionary 📖 Suggestions 🔎
 ### (The links below are the ones I use and recommend to my students since they are reliable and handy. TIP: Better to use the Web Browser Brave or Firefox, Google Chrome with the UBlock Origin AdBlock in order to get rid of the ads on these websites.)
