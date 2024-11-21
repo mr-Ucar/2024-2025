@@ -12,11 +12,15 @@
 
 _We use `have/has` + the past participle of the verb._ 
 
-# Examples:
-    * I **have played** football. (This means I played football at some point in my life, and I might still play it now.)
-    * She **has eaten** breakfast. (This means she ate breakfast at some point in the past, maybe this morning.)
-    * They **have gone** to school. (This means they went to school and are still there now.)
-    
+### Examples
+
+
+I **have played** football. _(This means I played football at some point in my life, and I might still play it now.)_ </br>
+She **has eaten** breakfast. _(This means she ate breakfast at some point in the past, maybe this morning.)_ </br>
+They **have gone** to school. _(This means they went to school and are still there now.)_ </br>
+
+</br>
+
 <img width="490" alt="screenshot_63" src="https://github.com/user-attachments/assets/67facd7c-5a8e-485c-8391-b2c7dbb2432e">
 </br>
 <img width="483" alt="screenshot_64" src="https://github.com/user-attachments/assets/3632d876-6710-487a-bb52-4d6b7119d4eb">
