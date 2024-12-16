@@ -4,16 +4,19 @@
 
 
 
-📚 Here, you can find some worksheet links that I have prepared for you. Generally, I send them via Google Drive links or emails, but it is also convenient to save them here on GitHub. Therefore, when needed, you can revise and study them. 📝
+📚 Here, you can find **some worksheet links that I have prepared for you**. Generally, I send them via Google Drive links or emails, but it is also convenient to save them here on GitHub. Therefore, when needed, you can revise and study them. 📝
 
 ღ(¯`◕‿◕´¯) ♫ ♪ ♫ Extra Resources and Exercises for my Classes ♫ ♪ ♫ )¯´◕‿◕`¯(ღ
-## Extra Resources and Exercises for my Classes 📚
+# Extra Resources and Exercises for my Classes 📚
  ``These are the worksheet that I prepared for you and I also added some extra resources, useful links for Writing below.``
 
- 📚 You can find some lesson-specific, unit-based worksheets that I have prepared for you here: https://github.com/mr-Ucar/2023-2024/tree/main/Resources
+ 📚 You can find some lesson-specific, unit-based worksheets that I have prepared for you here: **https://github.com/mr-Ucar/2023-2024/tree/main/Resources**
 
 - [Quizizz Profile](https://quizizz.com/profile/5fe0a986ef25c1001ba68262?section=library) 🎓
 - [My Quizizz Worksheet](https://quizizz.com/profile/5fe0a986ef25c1001ba68262?section=library)
+  # Example Worksheet:
+<img width="1540" alt="mr-Ucar_Quizizz" src="https://github.com/user-attachments/assets/66a713e1-6628-42d6-8489-35854277b7f7" />
+
 - [B1 Mavi Kitap Collection](https://quizizz.com/admin/my-library/collections/5fe43e2f6ec711001c9da551) 📘
 - [Join Quizizz](https://quizizz.com/join?gc=71792793) 🤝
 - [Quizizz Quiz](https://quizizz.com/admin/quiz/63e12637b34b8a001f73d594) 📝
