@@ -14,7 +14,8 @@
 
 - [Quizizz Profile](https://quizizz.com/profile/5fe0a986ef25c1001ba68262?section=library) 🎓
 - [My Quizizz Worksheet](https://quizizz.com/profile/5fe0a986ef25c1001ba68262?section=library)
-  # Example Worksheet:
+- 
+  # Example Worksheet from my Quizizz Account:
 <img width="1540" alt="mr-Ucar_Quizizz" src="https://github.com/user-attachments/assets/66a713e1-6628-42d6-8489-35854277b7f7" />
 
 - [B1 Mavi Kitap Collection](https://quizizz.com/admin/my-library/collections/5fe43e2f6ec711001c9da551) 📘
@@ -22,6 +23,10 @@
 - [Quizizz Quiz](https://quizizz.com/admin/quiz/63e12637b34b8a001f73d594) 📝
 - [Quizlet Classes](https://quizlet.com/myonline_repo/classes) 🏫
 - [Quizlet Folders](https://quizlet.com/myonline_repo/folders) 📁
+
+   # Example Worksheet/FlashCard from my Quizlet Account:
+<img width="639" alt="My Quizlet" src="https://github.com/user-attachments/assets/3ce73fd9-d2a0-4f59-9e88-db4f33c89d6e" />
+
 - [Vocabulary List](https://www.vocabulary.com/lists/1418074) 📖
 - [Vocabulary Profile](https://www.vocabulary.com/profiles/A0FYQKL0CCYKLC) 👤
 - ![image](https://github.com/user-attachments/assets/831cef6d-d843-4973-9f8e-fb62dfda79e7)
@@ -97,10 +102,11 @@
 (9) Pre-Intermediate (A2-B1) English Lessons - YouTube. https://www.youtube.com/playlist?list=PLZbwPn7vIwQwWt4otpBaXNn6mlMJS0cCv </br>
 (10) Video series | LearnEnglish. https://learnenglish.britishcouncil.org/general-english/video-series </br>
 (11) 15 Best YouTube Channels to Learn English – EnglishPost.org. https://englishpost.org/learning-english-youtube-channels/ </br>
-- **The last 3 are especially for Turkish speakers.** </br>
+- **The last 4 are especially for Turkish speakers.** </br>
 (12) Çilem Akar https://www.youtube.com/@cilemakar/ </br>
 (13) _There are some good Listening Quizzez with answer key in this channel https://www.youtube.com/@English_teacher/ </br>
-(14) Bahrom Hudayar https://www.youtube.com/@bahromhudayar
+(14) Bahrom Hudayar https://www.youtube.com/@bahromhudayar </br>
+(15) Hüseyin Demirtaş https://www.youtube.com/watch?v=aOg4M6lUhsU&list=PLi35DK8T_m03_IZDD7lWyJO8hyitKqWmZ </br>
 
 :arrow_down:
 ```` :arrow_down:
